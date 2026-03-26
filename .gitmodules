@@ -7,3 +7,6 @@
 [submodule "LlamaGen"]
 	path = LlamaGen
 	url = git@github.com:lukovnikov/LlamaGen.git
+[submodule "clustermark_wartermarks"]
+	path = clustermark_wartermarks
+	url = git@github.com:lukovnikov/clustermark_wartermarks.git
