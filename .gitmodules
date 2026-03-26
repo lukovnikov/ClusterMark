@@ -1,0 +1,9 @@
+[submodule "1d-tokenizer"]
+	path = 1d-tokenizer
+	url = git@github.com:lukovnikov/1d-tokenizer.git
+[submodule "wartermarks"]
+	path = wartermarks
+	url = git@github.com:lukovnikov/wartermarks.git
+[submodule "LlamaGen"]
+	path = LlamaGen
+	url = git@github.com:lukovnikov/LlamaGen.git
