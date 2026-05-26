@@ -1,9 +1,6 @@
-[submodule "1d-tokenizer"]
-	path = 1d-tokenizer
-	url = git@github.com:lukovnikov/clustermark_1d-tokenizer.git
-[submodule "LlamaGen"]
-	path = LlamaGen
-	url = git@github.com:lukovnikov/LlamaGen.git
 [submodule "clustermark_wartermarks"]
 	path = clustermark_wartermarks
 	url = git@github.com:lukovnikov/clustermark_wartermarks.git
+[submodule "clustermark_1d-tokenizer"]
+	path = clustermark_1d-tokenizer
+	url = git@github.com:lukovnikov/clustermark_1d-tokenizer.git
