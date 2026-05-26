@@ -2,6 +2,9 @@
 # Towards Robust Red-Green Watermarks for Autoregressive Image Generators
 
 ## Installation
+
+(reproduced with Python 3.13)
+
 ### Step 1: clone this repo with the submodules:
 
 `git clone --recurse-submodules https://github.com/lukovnikov/ClusterMark`
@@ -13,13 +16,16 @@ For `1d-tokenizer`:
 3. `source activate .venv/bin/python`
 
 Follow installation instructions in `1d-tokenizer` to setup the environment for this generator:
+
 `pip install -r requirements.txt`
 
 The RAR-XL checkpoint as well as the VAE (maskgit-vqgan-imagenet-f16-256.bin) are downloaded automatically when you first run the generation script and placed in `ckpts`.
 
 ### Step 3: setup `wartermarks` in the generator's environment:
-While in the generator's environment, install the shared project (wartermarks)
+While in the generator's environment, install the shared project (wartermarks):
+
 `cd ../clustermark_wartermarks`
+
 `pip install -e .`
 
 ## Generating (watermarked) images
