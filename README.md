@@ -1,18 +1,6 @@
 
 # Towards Robust Red-Green Watermarks for Autoregressive Image Generators
 
-## Project structure
-
-The code consists of three parts:
-
-1. a project containing shared code, used for verification (`wartermarks`)
-
-2. a project modified from the `1d-tokenizer` codebase for the RAR experiments
-
-3. a project modified from the `LlamaGen` codebase for LlamaGen experiments
-
-  
-
 ## Installation
 ### Step 1: clone this repo with the submodules:
 
