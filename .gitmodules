@@ -1,6 +1,8 @@
 [submodule "clustermark_wartermarks"]
 	path = clustermark_wartermarks
 	url = git@github.com:lukovnikov/clustermark_wartermarks.git
+	branch = main
 [submodule "clustermark_1d-tokenizer"]
 	path = clustermark_1d-tokenizer
 	url = git@github.com:lukovnikov/clustermark_1d-tokenizer.git
+	branch = main
